@@ -1,0 +1,19 @@
+# Java & Maven
+target/
+*.jar
+*.war
+*.class
+.mvn/
+mvnw*
+
+# Angular & Node
+node_modules/
+dist/
+.angular/
+
+# IDEs & OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+.env
